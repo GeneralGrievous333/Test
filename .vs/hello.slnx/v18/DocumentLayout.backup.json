@@ -13,24 +13,24 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 1,
           "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
             {
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Cat.cs",
               "DocumentMoniker": "C:\\Users\\Grievous\\Desktop\\Cat.cs",
               "RelativeDocumentMoniker": "..\\..\\..\\Desktop\\Cat.cs",
-              "ToolTip": "C:\\Users\\Grievous\\Desktop\\Cat.cs*",
-              "RelativeToolTip": "..\\..\\..\\Desktop\\Cat.cs*",
-              "ViewState": "AgIAAEYAAAAAAAAAAADwv1MAAAAcAAAAAAAAAA==",
+              "ToolTip": "C:\\Users\\Grievous\\Desktop\\Cat.cs",
+              "RelativeToolTip": "..\\..\\..\\Desktop\\Cat.cs",
+              "ViewState": "AgIAAD0AAAAAAAAAAAAswEUAAAAWAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-08-23T12:38:34.215Z",
               "EditorCaption": ""
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
             }
           ]
         }

@@ -1,0 +1,72 @@
+# ——— Папки сборок и временные файлы ———
+bin/
+obj/
+packages/
+*.user
+*.suo
+*.userprefs
+*.pidb
+*.psess
+*.vsp
+*.vspx
+*.sap
+
+# ——— Visual Studio (включая .vs/) ———
+.vs/
+*.vsidx
+*.vsi
+*.vstx
+
+# ——— Файлы отладки и профилирования ———
+*.pdb
+*.mdb
+*.dmp
+*.bin
+*.log
+*.etl
+*.trace
+
+# ——— Rider / JetBrains ———
+.idea/
+*.sln.iml
+*.swx
+*.sw?
+
+# ——— Результаты тестов ———
+TestResults/
+*.trx
+*.coverage
+*.coveragexml
+*.htmltestresult
+
+# ———— Артефакты публикации ————
+Publish/
+*.pubxml.user
+
+# ——— Файлы настроек, создаваемые IDE ———
+*.vsconfig
+*.vssettings
+*.csproj.user
+*.vbproj.user
+*.fsproj.user
+
+# ——— Локальные конфиги NuGet ———
+NuGet.Config
+*.nuget.props
+*.nuget.targets
+packages.config.lock
+
+# ——— Node.js (если используется в проекте) ———
+node_modules/
+package-lock.json
+yarn.lock
+
+# ——— Прочее ———
+*.tmp
+*.cache
+*.pid
+*.seed
+*.pid.lock
+*.orig
+*.bak
+*.~*
