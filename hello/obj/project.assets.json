@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Grievous\\source\\repos\\hello\\hello\\hello.csproj",
+      "projectUniqueName": "C:\\Users\\Grievous\\source\\repos\\Test\\hello\\hello.csproj",
       "projectName": "hello",
-      "projectPath": "C:\\Users\\Grievous\\source\\repos\\hello\\hello\\hello.csproj",
+      "projectPath": "C:\\Users\\Grievous\\source\\repos\\Test\\hello\\hello.csproj",
       "packagesPath": "C:\\Users\\Grievous\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Grievous\\source\\repos\\hello\\hello\\obj\\",
+      "outputPath": "C:\\Users\\Grievous\\source\\repos\\Test\\hello\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Users\\Grievous\\Documents\\VS community\\NuGetPackages"
